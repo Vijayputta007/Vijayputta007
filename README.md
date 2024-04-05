@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Vijayputta
-- 👀 I’m interested in the world of data science
-- 🌱 I’m currently learning python, SQL and R.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in analyzing Financial and Logistics data of companies in several industries.
+- 🌱 The projects showcase the work i have done in my free time
+- 💞️ I’m looking to collaborate on projects in Defi, NFT's & Smartcontracts, Liquidity protocols.
 
 <!---
 Vijayputta007/Vijayputta007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
